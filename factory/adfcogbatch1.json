@@ -1,0 +1,9 @@
+{
+	"name": "adfcogbatch1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29a9225e-8a8e-4c7c-abb4-d85b6640e06e",
+		"tenantId": "f4095125-16c0-4176-8689-ebed9c6059aa"
+	}
+}
